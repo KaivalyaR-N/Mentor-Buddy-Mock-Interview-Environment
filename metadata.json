@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Mock Interviewer Pro",
+  "description": "An agentic AI-powered mock interview platform that conducts voice-based professional interviews and provides real-time feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
